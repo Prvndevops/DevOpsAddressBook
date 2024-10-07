@@ -1,5 +1,5 @@
 pipeline {
-    agent myownbabuserverbyprvn
+    agent myprvnserver
     
     tools {
         maven 'M2_HOME'
